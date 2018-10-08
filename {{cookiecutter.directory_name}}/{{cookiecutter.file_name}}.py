@@ -1,9 +1,9 @@
 import discord
-from redbot.core import commands, checks, Cog
+from redbot.core import commands, checks
 from redbot.core.config import Config
 
 
-class {{cookiecutter.cog_name}}(Cog):
+class {{cookiecutter.cog_name}}(commands.Cog):
     """
     {{cookiecutter.description}}
     """
