@@ -1,0 +1,11 @@
+{
+    "author": ["hans"],
+    "install_msg": "",
+    "name": "mycog",
+    "disabled": false,
+    "short": "",
+    "description": "custom channel commands",
+    "tags": [],
+    "requirements": [],
+    "hidden": false
+}
